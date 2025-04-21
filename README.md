@@ -41,7 +41,7 @@
 | 項目 | 工具 |
 |------|------|
 | MCU 開發 | Keil uVision 5 |
-| 上位機 | Visual Studio 2019 / 2022 |
+| 上位機 | Visual Studio 2019 |
 | 通訊協定 | SPI（顯示器）、I2C（感測器）、UART（電腦） |
 | 其他 | SunnyUI 套件|
 
