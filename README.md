@@ -1,16 +1,16 @@
-# 🌡️ AHT20 溫濕度監控系統（STM32 + WinForms 上位機 + OLED）
+# 🌡️ AHT20 溫濕度監控系統（STM32 + WinForm + OLED）
 
-本專案整合STM32韌體、OLED顯示與C#上位機，透過I2C從AHT20感測器讀取溫濕度資料，並使用UART傳送至 PC 端顯示，同時使用SPI傳送數據至OLED顯示即時資訊，構成一套完整的即時監控系統。
+本專案整合STM32韌體、OLED顯示與C#監控介面，透過I2C從AHT20感測器讀取溫濕度資料，並使用UART傳送至 PC 端顯示，同時使用SPI傳送數據至OLED顯示即時資訊，構成一套完整的即時監控系統。
 
 
 ## 🔗 子專案連結
 
 - 🔌 [👉 韌體原始碼 - STM32 專案](https://github.com/siliva180sx/AHT20_Monitor_STM32/tree/main/STM32_AHT20_GitHub)
-- 🖥️ [👉 上位機原始碼 - WinForms GUI](https://github.com/siliva180sx/AHT20_Monitor_STM32/tree/main/AHT20_Monitor_GitHub)
+- 🖥️ [👉 監控介面原始碼 - WinForms GUI](https://github.com/siliva180sx/AHT20_Monitor_STM32/tree/main/AHT20_Monitor_GitHub)
 
 ---
 
-## 🖼️ 上位機 GUI 預覽圖
+## 🖼️ 監控介面 GUI 預覽圖
 
 ![GUI預覽畫面](https://github.com/siliva180sx/AHT20_Monitor_STM32/blob/main/img/screenshot.png)
 
@@ -28,7 +28,7 @@
 - 使用模組化方式撰寫：`bsp_usart`, `bsp_i2c`, `bsp_aht20`, `bsp_spi_oled`, `bsp_exti`
 
 
-### ✅ 上位機功能（WinForm）
+### ✅ 監控介面功能（WinForm）
 - 使用C#開發WinForm介面
 - 串口參數可設定（COM 埠、數據位、停止位）
 - 即時顯示溫度/濕度數據（Chart圖表同步顯示）
