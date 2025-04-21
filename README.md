@@ -37,17 +37,17 @@
 
 ## 🧰 開發工具與環境
 
-| 項目 | 工具 |
-|------|------|
-| MCU 開發 | Keil uVision 5 |
-| 上位機 | Visual Studio 2019 |
-| 通訊協定 | SPI（顯示器）、I2C（感測器）、UART（MCU to PC） |
-| 其他 | SunnyUI 套件|
+| 項目       | 工具                  |
+|------------|---------------------- |
+| MCU 開發   | Keil uVision 5        |
+| 上位機     | Visual Studio 2019    |
+| 通訊協定   | SPI、I2C、UART        |
+| 其他       | SunnyUI 套件(WinForm) |
+
 
 ---
 
 ## 📫 聯絡方式
-
-黃文廷  
-📧 kenken0981002806@gmail.com
+- 姓名：黃文廷
+- 電子郵件：kenken0981002806@gmail.com
 
