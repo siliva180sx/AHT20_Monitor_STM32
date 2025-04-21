@@ -12,7 +12,7 @@
 
 ## 🖼️ 上位機 GUI 預覽圖
 
-![GUI預覽畫面]([https://github.com/siliva180sx/AHT20_Monitor_STM32/raw/main/AHT20_Monitor_GitHub/img/screenshot.png](https://github.com/siliva180sx/AHT20_Monitor_STM32/tree/main/img))
+![GUI預覽畫面](https://github.com/siliva180sx/AHT20_Monitor_STM32/raw/main/AHT20_Monitor_GitHub/img/screenshot.png)
 
 ---
 
