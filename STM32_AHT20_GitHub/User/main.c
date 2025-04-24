@@ -1,6 +1,6 @@
 #include "stm32f10x.h"
 #include "bsp_dma_mtp.h"
-#include "bsp_aht20.h" 
+#include "bsp_sht20.h" 
 #include "bsp_exti.h"  
 #include "bsp_key.h"
 #include "bsp_spi_oled.h" 
