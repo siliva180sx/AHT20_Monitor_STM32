@@ -6,7 +6,7 @@
 ## 🔗 子專案連結
 
 - 🔌 [👉 韌體原始碼 - STM32 專案](https://github.com/siliva180sx/SHT20_Monitor_STM32/tree/main/STM32_SHT20_Sensor)
-- 🖥️ [👉 監控介面原始碼 - WinForms GUI](https://github.com/siliva180sx/SHT20_Monitor_STM32/tree/main/AHT20_Monitor_GitHub)
+- 🖥️ [👉 監控介面原始碼 - WinForms GUI](https://github.com/siliva180sx/SHT20_Monitor_STM32/tree/main/SHT20_Monitor)
 
 ---
 
