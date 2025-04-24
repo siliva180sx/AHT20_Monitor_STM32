@@ -12,7 +12,7 @@
 
 ## 🖼️ 監控介面 GUI 預覽圖
 
-![GUI預覽畫面](https://github.com/siliva180sx/AHT20_Monitor_STM32/blob/main/img/screenshot.png)
+![GUI預覽畫面](https://github.com/siliva180sx/SHT20_Monitor_STM32/blob/main/%E7%9B%A3%E6%8E%A7%E4%BB%8B%E9%9D%A2.PNG)
 
 ---
 
